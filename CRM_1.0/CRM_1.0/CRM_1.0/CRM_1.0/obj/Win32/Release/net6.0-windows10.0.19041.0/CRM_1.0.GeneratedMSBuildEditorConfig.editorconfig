@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CRM_1._0
+build_property.ProjectDir = C:\SypMaui\CRM_1.0\CRM_1.0\CRM_1.0\CRM_1.0\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/MainWindow.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.MainWindow.xaml
+build_metadata.AdditionalFiles.TargetPath = MainWindow.xaml
+build_metadata.AdditionalFiles.RelativePath = MainWindow.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/Pages/Dashboard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.Pages.Dashboard.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Dashboard.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Dashboard.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/Pages/OfferDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.Pages.OfferDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\OfferDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\OfferDetailPage.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/Pages/OfferPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.Pages.OfferPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\OfferPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\OfferPage.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/Pages/PersonDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.Pages.PersonDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PersonDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PersonDetailPage.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/Pages/PersonPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.Pages.PersonPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PersonPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PersonPage.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/Pages/ProjectDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.Pages.ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProjectDetailPage.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/Pages/ProjectPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.Pages.ProjectPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProjectPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProjectPage.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/Pages/RequestDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.Pages.RequestDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RequestDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RequestDetailPage.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/Pages/RequestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.Pages.RequestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RequestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RequestPage.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/Pages/ServiceDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.Pages.ServiceDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ServiceDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ServiceDetailPage.xaml
+
+[C:/SypMaui/CRM_1.0/CRM_1.0/CRM_1.0/CRM_1.0/Pages/ServicePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CRM_1._0.Pages.ServicePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ServicePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ServicePage.xaml

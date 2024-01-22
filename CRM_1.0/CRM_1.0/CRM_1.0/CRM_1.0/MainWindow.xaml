@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="CRM_1._0.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CRM_1._0"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="CRM">
+
+
+
+
+
+    <NavigationView x:Name="nvSample" IsSettingsVisible="False" ItemInvoked="NvSample_ItemInvoked" IsBackButtonVisible="Collapsed">
+
+        <NavigationView.MenuItems>
+            <NavigationViewItem Icon="Stop" Content="Dashboard" Tag="Dashboard" />
+            <NavigationViewItem Icon="People" Content="Person" Tag="Person" />
+            <NavigationViewItem Icon="Mail" Content="Anfragen" Tag="Anfragen" />
+            <NavigationViewItem Icon="AllApps" Content="Angebote" Tag="Angebote" />
+            <NavigationViewItem Icon="Preview" Content="Projekte" Tag="Projekte" />
+            <NavigationViewItem Icon="Refresh" Content="Services" Tag="Service" />
+        </NavigationView.MenuItems>
+
+        <Frame x:Name="contentFrame"/>
+
+    </NavigationView>
+</Window>

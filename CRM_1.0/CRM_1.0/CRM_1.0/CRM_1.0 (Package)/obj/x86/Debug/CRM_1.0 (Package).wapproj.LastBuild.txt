@@ -1,0 +1,101 @@
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\App.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\Dashboard.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\OfferDetailPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\OfferPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\PersonDetailPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\PersonPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\ProjectDetailPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\ProjectPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\RequestDetailPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\RequestPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\ServiceDetailPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\ServicePage.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\Redist\Debug\x86\ucrtbased.dll
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0 (Package)\Images\SplashScreen.scale-200.png
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0 (Package)\Images\LockScreenLogo.scale-200.png
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0 (Package)\Images\Square150x150Logo.scale-200.png
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0 (Package)\Images\Square44x44Logo.scale-200.png
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0 (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0 (Package)\Images\StoreLogo.png
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0 (Package)\Images\Wide310x150Logo.scale-200.png
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0 (Package)\bin\x86\Debug\resources.pri
+C:\Users\Hitzi\.nuget\packages\colorcode.core\2.0.13\lib\netstandard1.4\ColorCode.Core.dll
+C:\Users\Hitzi\.nuget\packages\colorcode.winui\2.0.13\lib\net5.0-windows10.0.18362\ColorCode.WinUI.dll
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.common\7.1.2\lib\net5.0\CommunityToolkit.Common.dll
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.dll
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.dll
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.core\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Core.dll
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.datagrid\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.DataGrid.dll
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.input\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Input.dll
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.layout\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Layout.dll
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.markdown\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Markdown.dll
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.media\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Media.dll
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.primitives\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Primitives.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.entityframeworkcore\6.0.0\lib\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.entityframeworkcore.abstractions\6.0.0\lib\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.entityframeworkcore.relational\6.0.0\lib\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.extensions.caching.abstractions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.extensions.caching.memory\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.extensions.configuration.abstractions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.extensions.dependencyinjection\6.0.0\lib\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\6.0.0\lib\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.extensions.logging\6.0.0\lib\netstandard2.1\Microsoft.Extensions.Logging.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\lib\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.extensions.options\6.0.0\lib\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.extensions.primitives\6.0.0\lib\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.graphics.win2d\1.0.0.30\lib\net5.0-windows10.0.18362.0\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Widgets.Providers.Projection.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\Hitzi\.nuget\packages\npgsql\6.0.0\lib\net6.0\Npgsql.dll
+C:\Users\Hitzi\.nuget\packages\npgsql.entityframeworkcore.postgresql\6.0.0\lib\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.graphics.win2d\1.0.0.30\runtimes\win10-arm64\native\Microsoft.Graphics.Canvas.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.graphics.win2d\1.0.0.30\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.graphics.win2d\1.0.0.30\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windowsappsdk\1.4.230913002\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Hitzi\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\CRM_1.0.deps.json
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\App.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\Pages\Dashboard.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\Pages\OfferDetailPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\Pages\OfferPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\Pages\PersonDetailPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\Pages\PersonPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\Pages\ProjectDetailPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\Pages\ProjectPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\Pages\RequestDetailPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\Pages\RequestPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\Pages\ServiceDetailPage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\Pages\ServicePage.xbf
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\obj\x86\Debug\net6.0-windows10.0.19041.0\apphost.exe
+C:\Users\Hitzi\.nuget\packages\colorcode.core\2.0.13\lib\netstandard1.4\ColorCode.Core.pdb
+C:\Users\Hitzi\.nuget\packages\colorcode.winui\2.0.13\lib\net5.0-windows10.0.18362\ColorCode.WinUI.pdb
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.common\7.1.2\lib\net5.0\CommunityToolkit.Common.pdb
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.pdb
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.pdb
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.core\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Core.pdb
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.datagrid\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.DataGrid.pdb
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.input\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Input.pdb
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.layout\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Layout.pdb
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.markdown\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Markdown.pdb
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.media\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Media.pdb
+C:\Users\Hitzi\.nuget\packages\communitytoolkit.winui.ui.controls.primitives\7.1.2\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Primitives.pdb
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\CRM_1.0.runtimeconfig.json
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\CRM_1.0.dll
+C:\Users\Hitzi\OneDrive - HTBLuVA Wiener Neustadt\Test Syp\CRM_1.0\CRM_1.0\CRM_1.0\bin\x86\Debug\net6.0-windows10.0.19041.0\CRM_1.0.pdb

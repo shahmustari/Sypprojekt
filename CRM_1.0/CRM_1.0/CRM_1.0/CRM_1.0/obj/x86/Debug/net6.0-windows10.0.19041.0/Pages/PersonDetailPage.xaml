@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="CRM.Pages.PersonDetailPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CRM.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:muxc="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:controls="using:CommunityToolkit.WinUI.UI.Controls"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- CommandBar -->
+            <RowDefinition Height="*"/>
+            <!-- Content -->
+        </Grid.RowDefinitions>
+
+        <!-- CommandBar -->
+        <CommandBar Background="Black" IsOpen="False" DefaultLabelPosition="Right">
+            <!-- Add your title here -->
+            <CommandBar.Content>
+                <TextBlock Text="Person Data" Style="{StaticResource SubtitleTextBlockStyle}" />
+            </CommandBar.Content>
+
+            <AppBarButton x:ConnectionId='45' Icon="Save" Label="save" x:Name="save"                   />
+        </CommandBar>
+
+        
+        <!-- Content -->
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" Grid.Row="1">
+            <StackPanel>
+                <StackPanel.Resources>
+                    <Style TargetType="muxc:Expander">
+                        <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                    </Style>
+                </StackPanel.Resources>
+
+                <!-- General Person Details -->
+                <muxc:Expander Header="Person 1" IsExpanded="True">
+                    <StackPanel>
+                        <TextBox x:ConnectionId='35' x:Name="Anrede1TextBox" PlaceholderText="Anrede1" Margin="10" />
+                        <TextBox x:ConnectionId='36' x:Name="Titel1TextBox" PlaceholderText="Titel1" Margin="10" />
+                        <TextBox x:ConnectionId='37' x:Name="Nachname1TextBox" PlaceholderText="Nachname1" Margin="10" />
+                        <TextBox x:ConnectionId='38' x:Name="Vorname1TextBox" PlaceholderText="Vorname1" Margin="10" />
+                        <TextBox x:ConnectionId='39' x:Name="TelNr1TextBox" PlaceholderText="TelNr1" Margin="10" />
+                        <TextBox x:ConnectionId='40' x:Name="MobilNr1TextBox" PlaceholderText="MobilNr1" Margin="10" />
+                        <TextBox x:ConnectionId='41' x:Name="Email1TextBox" PlaceholderText="Email1" Margin="10" />
+                        <DatePicker x:ConnectionId='42' x:Name="Geburtstag1DatePicker" Header="Geburtstag1" Margin="10" />
+                        <TimePicker x:ConnectionId='43' x:Name="Geburtstag1TimePicker" Header="Geburtstag1 Uhrzeit" Margin="10" />
+                        <TextBox x:ConnectionId='44' x:Name="Sternzeichen1TextBox" PlaceholderText="Sternzeichen1" Margin="10" />
+                        <!-- Add TextBoxes for other person properties here -->
+                    </StackPanel>
+                </muxc:Expander>
+
+                <!-- Additional Information -->
+                <muxc:Expander Header="Person 2">
+                    <StackPanel>
+                        <TextBox x:ConnectionId='25' x:Name="Anrede2TextBox" PlaceholderText="Anrede2" Margin="10" />
+                        <TextBox x:ConnectionId='26' x:Name="Titel2TextBox" PlaceholderText="Titel2" Margin="10" />
+                        <TextBox x:ConnectionId='27' x:Name="Nachname2TextBox" PlaceholderText="Nachname2" Margin="10" />
+                        <TextBox x:ConnectionId='28' x:Name="Vorname2TextBox" PlaceholderText="Vorname2" Margin="10" />
+                        <TextBox x:ConnectionId='29' x:Name="TelNr2TextBox" PlaceholderText="TelNr2" Margin="10" />
+                        <TextBox x:ConnectionId='30' x:Name="MobilNr2TextBox" PlaceholderText="MobilNr2" Margin="10" />
+                        <TextBox x:ConnectionId='31' x:Name="Email2TextBox" PlaceholderText="Email2" Margin="10" />
+                        <DatePicker x:ConnectionId='32' x:Name="Geburtstag2DatePicker" Header="Geburtstag2" Margin="10" />
+                        <TimePicker x:ConnectionId='33' x:Name="Geburtstag2TimePicker" Header="Geburtstag2 Uhrzeit" Margin="10" />
+                        <TextBox x:ConnectionId='34' x:Name="Sternzeichen2TextBox" PlaceholderText="Sternzeichen2" Margin="10" />
+                        <!-- Add TextBoxes for other additional information here -->
+                    </StackPanel>
+                </muxc:Expander>
+
+                <!-- More Options -->
+                <muxc:Expander Header="weitere Informationen">
+                    <StackPanel>
+                        <TextBox x:ConnectionId='8' x:Name="PlzBstTextBox" PlaceholderText="PlzBst" Margin="10" />
+                        <TextBox x:ConnectionId='9' x:Name="OrtBestTextBox" PlaceholderText="OrtBest" Margin="10" />
+                        <TextBox x:ConnectionId='10' x:Name="StraßeBstTextBox" PlaceholderText="StraßeBst" Margin="10" />
+                        <TextBox x:ConnectionId='11' x:Name="NrBestTextBox" PlaceholderText="NrBest" Margin="10" />
+                        <TextBox x:ConnectionId='12' x:Name="ArtTextBox" PlaceholderText="Art" Margin="10" />
+                        <TextBox x:ConnectionId='13' x:Name="LeistungTextBox" PlaceholderText="Leistung" Margin="10" />
+                        <TextBox x:ConnectionId='14' x:Name="PlzWhngTextBox" PlaceholderText="PlzWhng" Margin="10" />
+                        <TextBox x:ConnectionId='15' x:Name="OrtWhngTextBox" PlaceholderText="OrtWhng" Margin="10" />
+                        <TextBox x:ConnectionId='16' x:Name="StraßeWhngTextBox" PlaceholderText="StraßeWhng" Margin="10" />
+                        <TextBox x:ConnectionId='17' x:Name="NrWhngTextBox" PlaceholderText="NrWhng" Margin="10" />
+                        <TextBox x:ConnectionId='18' x:Name="wiezuunsTextBox" PlaceholderText="wiezuuns" Margin="10" />
+                        <TextBox x:ConnectionId='19' x:Name="sonstigesTextBox" PlaceholderText="sonstiges" Margin="10" />
+                        
+                        <DatePicker x:ConnectionId='20' x:Name="ErstkontaktDatePicker" Header="Erstkontakt" Margin="10" />
+                        <TimePicker x:ConnectionId='21' x:Name="ErstkontaktTimePicker" Header="Erstkontakt Uhrzeit" Margin="10" />
+
+                        <DatePicker x:ConnectionId='22' x:Name="TerminDatePicker" Header="Termin" Margin="10" />
+                        <TimePicker x:ConnectionId='23' x:Name="TerminTimePicker" Header="Termin Uhrzeit" Margin="10" />
+                        
+                        <CheckBox x:ConnectionId='24' x:Name="AktivCheckBox" Content="Aktiv" Margin="10" />
+                        <!-- Add more TextBoxes for other properties and CheckBoxes as needed -->
+                    </StackPanel>
+                </muxc:Expander>
+
+                <CommandBar Background="Black" IsOpen="False" DefaultLabelPosition="Right">
+                    <AppBarButton x:ConnectionId='4' Icon="Add" Label="Add"                        />
+                    <!--<AppBarButton Icon="Save" Label="Save" Click="SaveButton_Click"/>-->
+                    <AppBarButton x:ConnectionId='5' Icon="Edit" Label="Edit"                          x:Name="EditButton" IsEnabled="False" />
+                    <AppBarButton x:ConnectionId='6' Icon="Delete" Label="Delete"                           />
+                    <AppBarButton x:ConnectionId='7' Icon="Refresh" Label="Refresh"                            />
+                </CommandBar>
+
+                <controls:DataGrid x:ConnectionId='3' x:Name="RequestDataGrid" AutoGenerateColumns="True" Grid.Row="3"                                              IsReadOnly="True"/>
+
+
+            </StackPanel>
+        </ScrollViewer>
+        
+
+
+        <ProgressRing x:ConnectionId='2' x:Name="loadingRing" IsActive="False" Background="Red" Width="200" Height="200" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2" />
+
+        <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+
+        </StackPanel>
+
+
+
+    </Grid>
+</Page>
+
