@@ -131,7 +131,7 @@ namespace CRM.Pages
             foreach (var row in selectedRows)
             {
                 // Fügen Sie die Daten für jede Zeile hinzu und trennen Sie sie mit Semikolon
-                csvData.AppendLine($"{row.PersonID};{row.Anrede1};{row.Titel1};{row.Nachname1};{row.Vorname1};{row.TelNr1};{row.MobilNr1};{row.Email1};{row.Geburtstag1};{row.Sternzeichen1};{row.Anrede2};{row.Titel2};{row.Nachname2};{row.Vorname2};{row.TelNr2};{row.MobilNr2};{row.Email2};{row.Geburtstag2};{row.Sternzeichen2};{row.PlzBst};{row.OrtBest};{row.StraßeBst};{row.NrBest};{row.Art};{row.Leistung};{row.PlzWhng};{row.OrtWhng};{row.StraßeWhng};{row.NrWhng};{row.Wiezuuns};{row.sonstiges};{row.Erstkontakt};{row.Termin};{row.AKTIV}");
+                csvData.AppendLine($"{row.PersonID};{row.Anrede1};{row.Titel1};{row.Nachname1};{row.Vorname1};{row.TelNr1};{row.MobilNr1};{row.Email1};{row.Geburtstag1};{row.Sternzeichen1};{row.Anrede2};{row.Titel2};{row.Nachname2};{row.Vorname2};{row.TelNr2};{row.MobilNr2};{row.Email2};{row.Geburtstag2};{row.Sternzeichen2};{row.PlzBst};{row.OrtBest};{row.StraßeBst};{row.NrBest};{row.Art};{row.Leistung};{row.PlzWhng};{row.OrtWhng};{row.StraßeWhng};{row.NrWhng};{row.Wiezuuns};{row.Sonstiges};{row.Erstkontakt};{row.Termin};{row.AKTIV}");
             }
 
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);

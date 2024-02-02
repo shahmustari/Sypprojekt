@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SypMaui\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0.csproj": {}
+    "D:\\Downloads\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0.csproj": {}
   },
   "projects": {
-    "C:\\SypMaui\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0.csproj": {
+    "D:\\Downloads\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SypMaui\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0.csproj",
+        "projectUniqueName": "D:\\Downloads\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0.csproj",
         "projectName": "CRM_1.0",
-        "projectPath": "C:\\SypMaui\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0.csproj",
+        "projectPath": "D:\\Downloads\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0.csproj",
         "packagesPath": "C:\\Users\\Shah\\.nuget\\packages\\",
-        "outputPath": "C:\\SypMaui\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0\\obj\\",
+        "outputPath": "D:\\Downloads\\CRM_1.0\\CRM_1.0\\CRM_1.0\\CRM_1.0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,10 @@
           "targetAlias": "net6.0-windows10.0.19041.0",
           "dependencies": {
             "CommunityToolkit.WinUI": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "CommunityToolkit.WinUI.UI.Controls": {
               "target": "Package",
               "version": "[7.1.2, )"
             },

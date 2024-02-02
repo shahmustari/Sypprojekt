@@ -186,13 +186,13 @@ namespace CRM.Pages
                 StraﬂeWhngTextBox.Text = personData.StraﬂeWhng;
                 NrWhngTextBox.Text = personData.NrWhng;
                 wiezuunsTextBox.Text = personData.Wiezuuns;
-                sonstigesTextBox.Text = personData.sonstiges;
+                sonstigesTextBox.Text = personData.Sonstiges;
                 ErstkontaktDatePicker.Date = personData.Erstkontakt.Date;
                 ErstkontaktTimePicker.Time = personData.Erstkontakt.TimeOfDay;
                 TerminDatePicker.Date = personData.Termin.Date;
                 TerminTimePicker.Time = personData.Termin.TimeOfDay;
                 AktivCheckBox.IsChecked = personData.AKTIV;
-                // Populate other TextBox controls and CheckBoxes as needed
+                
             }
             else
             {
@@ -267,7 +267,7 @@ namespace CRM.Pages
                         StraﬂeWhng = StraﬂeWhngTextBox.Text,
                         NrWhng = NrWhngTextBox.Text,
                         Wiezuuns = wiezuunsTextBox.Text,
-                        sonstiges = sonstigesTextBox.Text,
+                        Sonstiges = sonstigesTextBox.Text,
                         Erstkontakt = new DateTime(
                             erstkontaktDate.Year, erstkontaktDate.Month, erstkontaktDate.Day,
                             erstkontaktTime.Hours, erstkontaktTime.Minutes, erstkontaktTime.Seconds, DateTimeKind.Utc
@@ -319,7 +319,7 @@ namespace CRM.Pages
                     aktuelle.StraﬂeWhng = StraﬂeWhngTextBox.Text;
                     aktuelle.NrWhng = NrWhngTextBox.Text;
                     aktuelle.Wiezuuns = wiezuunsTextBox.Text;
-                    aktuelle.sonstiges = sonstigesTextBox.Text;
+                    aktuelle.Sonstiges = sonstigesTextBox.Text;
                     aktuelle.Erstkontakt = new DateTime(
                         erstkontaktDate.Year, erstkontaktDate.Month, erstkontaktDate.Day,
                         erstkontaktTime.Hours, erstkontaktTime.Minutes, erstkontaktTime.Seconds, DateTimeKind.Utc

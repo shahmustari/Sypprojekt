@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="CRM.Pages.ServiceDetailPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CRM.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:muxc="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <!-- CommandBar -->
+            <RowDefinition Height="*" />
+            <!-- Content -->
+        </Grid.RowDefinitions>
+
+        <!-- CommandBar -->
+        <CommandBar Background="Black" IsOpen="False" DefaultLabelPosition="Right">
+            <!-- Add your title here -->
+            <CommandBar.Content>
+                <TextBlock Text="Service Data" Style="{StaticResource SubtitleTextBlockStyle}" />
+            </CommandBar.Content>
+
+            <AppBarButton x:ConnectionId='10' Icon="Save" Label="save" x:Name="save"                   />
+        </CommandBar>
+
+        <!-- Content -->
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" Grid.Row="1">
+            <StackPanel>
+                <StackPanel.Resources>
+                    <Style TargetType="muxc:Expander">
+                        <Setter Property="HorizontalAlignment" Value="Stretch" />
+                        <Setter Property="HorizontalContentAlignment" Value="Left" />
+                    </Style>
+                </StackPanel.Resources>
+
+                <!-- General Service Details -->
+                <muxc:Expander Header="Service Details" IsExpanded="True">
+                    <StackPanel>
+                        <TextBox x:ConnectionId='4' x:Name="ArtTextBox" PlaceholderText="Art" Margin="10" />
+                        <DatePicker x:ConnectionId='5' x:Name="DatumDatePicker" Header="Datum" Margin="10" />
+                        <TimePicker x:ConnectionId='6' x:Name="DatumTimePicker" Header="Datum Uhrzeit" Margin="10" />
+                        <TextBox x:ConnectionId='7' x:Name="InformationTextBox" PlaceholderText="Information" Margin="10" />
+                        <TextBox x:ConnectionId='8' x:Name="KostenTextBox" PlaceholderText="Kosten" Margin="10" />
+                        <CheckBox x:ConnectionId='9' x:Name="AktivCheckBox" Content="Aktiv" Margin="10" />
+                        <!-- Add TextBoxes for other service properties here -->
+                    </StackPanel>
+                </muxc:Expander>
+
+                <!-- More Options -->
+                <muxc:Expander Header="More Options">
+                    <StackPanel>
+                        <TextBox x:ConnectionId='3' x:Name="ProjektIDTextBox" PlaceholderText="ProjektID" Margin="10" />
+                        <!-- Add more TextBoxes for other properties as needed -->
+                    </StackPanel>
+                </muxc:Expander>
+            </StackPanel>
+        </ScrollViewer>
+        <ProgressRing x:ConnectionId='2' x:Name="loadingRing" IsActive="False" Background="Red" Width="200" Height="200" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2" />
+
+
+        <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+
+        </StackPanel>
+    </Grid>
+</Page>
+
